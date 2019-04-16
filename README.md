@@ -8,16 +8,20 @@ Instructor : Ashwath Rao
 How to run
 In the Final project directory, just type the following commands
 
+
 To run cuda code - 
+
 	nvcc cuda.cu -o out
 	./out
-  
+
 To run MPI code - 
+
 	mpicc mpi.c -o mpi
 	mpiexec -n 40 ./mpi
 
 To run serial implementation -
-  gcc serial.c -o output
+
+	gcc serial.c -o output
 	./output
 
 You should have gcc, version 5.0 or above installed on your machine for serial implementation. 
