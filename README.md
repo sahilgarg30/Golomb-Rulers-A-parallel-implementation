@@ -16,8 +16,8 @@ To run cuda code -
 
 To run MPI code - 
 
-	mpicc mpi.c -o mpi
-	mpiexec -n 40 ./mpi
+	mpicc mpi.c -o mpiout
+	mpiexec -n 40 ./mpiout
 
 To run serial implementation -
 
