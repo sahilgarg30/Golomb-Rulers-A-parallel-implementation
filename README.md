@@ -3,7 +3,7 @@ Parallel Programming Project : Golomb rulers
 
 This project was created as a part of the course lab ”Parallel Computing and Programming”. The programs are parallelised using the standards MPI and CUDA, and its specifications are written down in the PDF attached as "Final Project Report".
 
-Instructor : Ashwath Rao
+Instructor/Mentor : Ashwath Rao (Professor, Manipal Institute of Technology, Manipal)
 
 How to run
 In the Final project directory, just type the following commands
