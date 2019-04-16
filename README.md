@@ -1,5 +1,6 @@
 # PCAP_Lab_Project_GolombRulers
 Parallel Programming Project : Golomb rulers
+
 This project was created as a part of the course lab ”Parallel Computing and Programming”. The programs are parallelised using the standards MPI and CUDA, and its specifications are written down in the PDF attached as "Final Project Report".
 
 Instructor : Ashwath Rao
